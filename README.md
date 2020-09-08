@@ -1,2 +1,3 @@
-# rock-paper-scissors
-A simple rock paper scissors javascript app using javascript
+# Rock Paper Scissors
+
+A simple rock paper scissor javascript application.
